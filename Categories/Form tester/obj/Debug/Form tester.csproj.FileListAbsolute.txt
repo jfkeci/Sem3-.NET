@@ -1,0 +1,14 @@
+C:\Users\Keci\source\repos\Categories\Form tester\bin\Debug\Form tester.exe.config
+C:\Users\Keci\source\repos\Categories\Form tester\bin\Debug\Form tester.exe
+C:\Users\Keci\source\repos\Categories\Form tester\bin\Debug\Form tester.pdb
+C:\Users\Keci\source\repos\Categories\Form tester\bin\Debug\Poslovi.dll
+C:\Users\Keci\source\repos\Categories\Form tester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Keci\source\repos\Categories\Form tester\bin\Debug\Poslovi.pdb
+C:\Users\Keci\source\repos\Categories\Form tester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Keci\source\repos\Categories\Form tester\obj\Debug\Form tester.csprojAssemblyReference.cache
+C:\Users\Keci\source\repos\Categories\Form tester\obj\Debug\Form_tester.Form1.resources
+C:\Users\Keci\source\repos\Categories\Form tester\obj\Debug\Form_tester.Properties.Resources.resources
+C:\Users\Keci\source\repos\Categories\Form tester\obj\Debug\Form tester.csproj.GenerateResource.cache
+C:\Users\Keci\source\repos\Categories\Form tester\obj\Debug\Form tester.csproj.CopyComplete
+C:\Users\Keci\source\repos\Categories\Form tester\obj\Debug\Form tester.exe
+C:\Users\Keci\source\repos\Categories\Form tester\obj\Debug\Form tester.pdb

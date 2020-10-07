@@ -1,0 +1,11 @@
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\bin\Debug\ConsoleAppTester.exe.config
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\bin\Debug\ConsoleAppTester.exe
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\bin\Debug\ConsoleAppTester.pdb
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\bin\Debug\Poslovi.dll
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\bin\Debug\Poslovi.pdb
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\obj\Debug\ConsoleAppTester.csprojAssemblyReference.cache
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\obj\Debug\ConsoleAppTester.csproj.CopyComplete
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\obj\Debug\ConsoleAppTester.exe
+C:\Users\Keci\source\repos\Categories\ConsoleAppTester\obj\Debug\ConsoleAppTester.pdb

@@ -1,0 +1,17 @@
+C:\Users\Keci\source\repos\Categories\FormHZZ\bin\Debug\FormHZZ.exe.config
+C:\Users\Keci\source\repos\Categories\FormHZZ\bin\Debug\FormHZZ.exe
+C:\Users\Keci\source\repos\Categories\FormHZZ\bin\Debug\FormHZZ.pdb
+C:\Users\Keci\source\repos\Categories\FormHZZ\bin\Debug\Poslovi.dll
+C:\Users\Keci\source\repos\Categories\FormHZZ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Keci\source\repos\Categories\FormHZZ\bin\Debug\Poslovi.pdb
+C:\Users\Keci\source\repos\Categories\FormHZZ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.csprojAssemblyReference.cache
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.HZZ_Kategorije.resources
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.HZZ_Naslovna.resources
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.HZZ_Poslovi.resources
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.HZZ.resources
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.Properties.Resources.resources
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.csproj.GenerateResource.cache
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.csproj.CopyComplete
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.exe
+C:\Users\Keci\source\repos\Categories\FormHZZ\obj\Debug\FormHZZ.pdb

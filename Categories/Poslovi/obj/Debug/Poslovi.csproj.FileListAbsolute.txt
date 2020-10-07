@@ -1,0 +1,8 @@
+C:\Users\Keci\source\repos\Categories\Poslovi\bin\Debug\Poslovi.dll
+C:\Users\Keci\source\repos\Categories\Poslovi\bin\Debug\Poslovi.pdb
+C:\Users\Keci\source\repos\Categories\Poslovi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Keci\source\repos\Categories\Poslovi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Keci\source\repos\Categories\Poslovi\obj\Debug\Poslovi.csproj.CopyComplete
+C:\Users\Keci\source\repos\Categories\Poslovi\obj\Debug\Poslovi.dll
+C:\Users\Keci\source\repos\Categories\Poslovi\obj\Debug\Poslovi.pdb
+C:\Users\Keci\source\repos\Categories\Poslovi\obj\Debug\Poslovi.csprojAssemblyReference.cache
